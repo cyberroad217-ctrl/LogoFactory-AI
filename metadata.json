@@ -1,0 +1,9 @@
+{
+  "name": "LogoFactory AI",
+  "description": "An autonomous AI logo template factory and marketplace that generates, categorizes, and packages thousands of SVG logo templates daily using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
